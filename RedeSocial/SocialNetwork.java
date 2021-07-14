@@ -29,6 +29,7 @@ public class SocialNetwork {
         users.imprime(user1);
         users.imprime(user2);
         users.imprime(user3);
+        users.imprime(user4);
 
         System.out.println("----------------------");
     }
